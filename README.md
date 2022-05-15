@@ -4,7 +4,6 @@
 <p><em>Software Engineer</em></p>
 
 [![Linkedin:fatikhan-gasimov](https://img.shields.io/badge/-fatikhan_gasimov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fatikhan-gasimov/)](https://www.linkedin.com/in/fatikhan-gasimov/)
-![GitHub followers](https://img.shields.io/github/followers/fatikhan-gasimov?label=Follow&style=social)
 ![](https://komarev.com/ghpvc/?username=fatikhan-gasimov&color=blue)
  
 
