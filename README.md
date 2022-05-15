@@ -1,5 +1,4 @@
 ### Hi there 👋, I'm Fatikhan.
-<br>
 ![](https://komarev.com/ghpvc/?username=fatikhan-gasimov&color=blue)
 
 <!--
