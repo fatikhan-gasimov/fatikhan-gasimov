@@ -28,6 +28,5 @@ const fatikhan = {
 ```
 
 ---
-
-[![Fatikhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatikhan-gasimov)](https://github.com/fatikhan-gasimov/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatikhan-gasimov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Fatikhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatikhan-gasimov&show_icons=true)
+[![Fatikhan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatikhan-gasimov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
