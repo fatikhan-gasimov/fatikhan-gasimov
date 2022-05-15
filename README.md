@@ -1,4 +1,3 @@
-
 <h2>Hi there 👋, I'm Fatikhan! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Engineer</em></p>
@@ -31,5 +30,4 @@ const fatikhan = {
 ---
 
 [![Fatikhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatikhan-gasimov)](https://github.com/fatikhan-gasimov/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatikhan-gasimov)](https://github.com/fatikhan-gasimov/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatikhan-gasimov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
